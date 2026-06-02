@@ -1,0 +1,3 @@
+# Notebooks
+
+This folder contains the Jupyter notebook used in this project.
