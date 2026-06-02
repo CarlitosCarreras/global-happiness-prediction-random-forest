@@ -154,7 +154,7 @@ pip install -r requirements.txt
 Then open the notebook:
 
 ```bash
-Global_Happiness_Prediction_Using_Random_Forest.ipynb
+Global Happiness Prediction Using Random Forest.ipynb
 ```
 
 Due to WVS data redistribution restrictions, the original dataset is not included in this repository.
