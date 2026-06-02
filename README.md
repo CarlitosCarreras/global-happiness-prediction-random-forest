@@ -127,7 +127,7 @@ The findings suggest that happiness is more strongly associated with individual-
 ```text
 global-happiness-prediction-random-forest/
 │
-├── Global Happiness Prediction Using Random Forest.ipynb
+├── Global_Happiness_Prediction_Using_Random_Forest.ipynb
 │
 ├── images/
 │   ├── happiness_by_region.png
@@ -154,7 +154,7 @@ pip install -r requirements.txt
 Then open the notebook:
 
 ```bash
-Global Happiness Prediction Using Random Forest.ipynb
+Global_Happiness_Prediction_Using_Random_Forest.ipynb
 ```
 
 Due to WVS data redistribution restrictions, the original dataset is not included in this repository.
