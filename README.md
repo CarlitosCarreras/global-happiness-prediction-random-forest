@@ -162,5 +162,7 @@ Due to WVS data redistribution restrictions, the original dataset is not include
 ## Author
 
 Carlos F. Carreras De León
+
 MSc in Social Data Science
+
 University of Granada
