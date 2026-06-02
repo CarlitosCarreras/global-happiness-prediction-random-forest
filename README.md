@@ -80,6 +80,20 @@ Excludes life satisfaction to test whether the model remains robust without a cl
 
 The results show that both models perform well, especially when predicting individuals classified as happy. However, the class imbalance affects the model’s ability to correctly identify the minority class: individuals classified as not happy.
 
+## Visualizations
+
+### ROC Curve
+
+![ROC Curve](images/roc_curve.png)
+
+### Confusion Matrix
+
+![Confusion Matrix](images/confusion_matrix.png)
+
+### Feature Importance
+
+![Feature Importance](images/feature_importance.png)
+
 ## Key Findings
 
 The most relevant predictors of happiness were related to:
@@ -113,11 +127,10 @@ The findings suggest that happiness is more strongly associated with individual-
 ```text
 global-happiness-prediction-random-forest/
 │
-├── notebooks/
-│   └── Global_Happiness_Prediction_Using_Random_Forest.ipynb
+├── Global Happiness Prediction Using Random Forest.ipynb
 │
 ├── images/
-│   ├── class_distribution.png
+│   ├── happiness_by_region.png
 │   ├── confusion_matrix.png
 │   ├── roc_curve.png
 │   └── feature_importance.png
@@ -141,7 +154,7 @@ pip install -r requirements.txt
 Then open the notebook:
 
 ```bash
-notebooks/Global_Happiness_Prediction_Using_Random_Forest.ipynb
+Global_Happiness_Prediction_Using_Random_Forest.ipynb
 ```
 
 Due to WVS data redistribution restrictions, the original dataset is not included in this repository.
