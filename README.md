@@ -159,6 +159,19 @@ Global_Happiness_Prediction_Using_Random_Forest.ipynb
 
 Due to WVS data redistribution restrictions, the original dataset is not included in this repository.
 
+## Skills Demonstrated
+
+- Development of machine learning models for predicting subjective well-being
+- Analysis of large-scale international survey data (World Values Survey)
+- Feature engineering and preprocessing of social science datasets
+- Random Forest classification and model optimization
+- Group-based cross-validation to prevent country-level data leakage
+- Evaluation of predictive performance using F1-score and ROC-AUC
+- Interpretation of factors associated with happiness across countries
+- Data visualization and exploratory data analysis
+- Computational social science methods
+- Python-based data science workflows
+
 ## Author
 
 Carlos F. Carreras De León
